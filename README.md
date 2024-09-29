@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on Open Source projects on AI , Web Dev <br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on Open Source projects on AI , Web Dev <br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning KuberNetes <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
